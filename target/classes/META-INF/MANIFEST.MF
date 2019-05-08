@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: xola
+Build-Jdk: 11.0.2
+Implementation-Title: spring-boot-first-web-application
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.in28minutes.springboot.web
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-first-web-application
+Created-By: Maven Integration for Eclipse
+
